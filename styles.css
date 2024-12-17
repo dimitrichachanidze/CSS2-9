@@ -7,11 +7,12 @@
 #mtavari_div {
     display: block;
     margin: 0 auto;
-    padding: 96px;
+    padding: 108px;
     align-items: center;
-    background: tomato;
+    background-color: #E8EEFF;
     margin-top: 64px;
     width: 1604px;
+    margin-bottom: 108px;
 }
 
 #text_div {
@@ -78,6 +79,9 @@
     max-width: 417px;
     width: 100%;
     display: inline-block;
+    background-color: #FFFFFF;
+    padding: 16px;
+    border-radius: 8px;
 
 }
 
@@ -115,6 +119,9 @@
     width: 100%;
     margin-left: 32px;
     display: inline-block;
+    background-color: #FFFFFF;
+    padding: 16px;
+    border-radius: 8px;
 }
 
 #miniContainerTwo {
@@ -151,6 +158,9 @@
     width: 100%;
     margin-left: 32px;
     display: inline-block;
+    background-color: #FFFFFF;
+    padding: 16px;
+    border-radius: 8px;
 }
 
 #miniContainerThree {
@@ -185,14 +195,13 @@
     margin: 0 auto;
     width: 736px;
     text-align: center;
-    background-color: #53389E;
     border-top-left-radius: 24px;
     border-bottom-left-radius: 24px;
     padding-top: 41px;
     padding-bottom: 41px;
     display: inline-block;
     vertical-align: middle;
-    
+
 }
 
 #shotP {
@@ -259,10 +268,16 @@
     height: 388px;
     border-top-right-radius: 24px;
     border-bottom-right-radius: 24px;
-    
+
 }
 
 #forMiddle {
     margin: 0 auto;
     text-align: center;
+    background-color: #53389E;
+    max-width: 1220px;
+    width: 100%;
+    border-radius: 24px;
+    max-height: 388px;
+
 }

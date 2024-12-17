@@ -1,0 +1,268 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#mtavari_div {
+    display: block;
+    margin: 0 auto;
+    padding: 96px;
+    align-items: center;
+    background: tomato;
+    margin-top: 64px;
+    width: 1604px;
+}
+
+#text_div {
+    max-width: 1024px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#main_h {
+    margin: 0 auto;
+    text-align: center;
+    color: #181D27;
+    font-size: 72px;
+    padding-bottom: 24px;
+    width: 864px;
+}
+
+#blue_span {
+    color: #05F;
+    font-size: 72px;
+}
+
+#purple_span {
+    color: #6941C6;
+    font-size: 72px;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-skip-ink: none;
+    text-decoration-thickness: auto;
+    text-underline-offset: auto;
+    text-underline-position: from-font;
+}
+
+#main_p {
+    margin: 0 auto;
+    max-width: 768px;
+    width: 100%;
+    text-align: center;
+    padding-top: 24px;
+    font-size: 20px;
+    color: #535862;
+}
+
+#div_img {
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 72px;
+}
+
+#img_div {
+    width: 1200px;
+    border-radius: 24px;
+}
+
+#HeadDiv {
+    margin: 0 auto;
+    margin-top: 64px;
+    margin-bottom: 64px;
+    text-align: center;
+}
+
+#mainContainer {
+    text-align: center;
+    max-width: 417px;
+    width: 100%;
+    display: inline-block;
+
+}
+
+#miniContainer {
+    margin: 0 auto;
+    text-align: center;
+}
+
+#logo {
+    max-width: 48px;
+    max-height: 48px;
+}
+
+#shareP {
+    margin: 0 auto;
+    text-align: center;
+    color: #181D27;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+#bigP {
+    font-size: 16px;
+    color: #535862;
+    margin: 0 auto;
+    margin-top: 8px;
+    text-align: center;
+    max-width: 360px;
+    width: 100%;
+}
+
+#mainContainerTwo {
+    text-align: center;
+    max-width: 417px;
+    width: 100%;
+    margin-left: 32px;
+    display: inline-block;
+}
+
+#miniContainerTwo {
+    margin: 0 auto;
+    text-align: center;
+}
+
+#deliverP {
+    margin: 0 auto;
+    text-align: center;
+    color: #181D27;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+#servicesP {
+    margin: 0 auto;
+    color: #535862;
+    text-align: center;
+    font-size: 16px;
+    margin-top: 8px;
+    max-width: 370px;
+    width: 100%;
+}
+
+#zaplogo {
+    max-width: 48px;
+    max-height: 48px;
+}
+
+#mainContainerThree {
+    text-align: center;
+    max-width: 417px;
+    width: 100%;
+    margin-left: 32px;
+    display: inline-block;
+}
+
+#miniContainerThree {
+    margin: 0 auto;
+    text-align: center;
+}
+
+#fileLogo {
+    max-width: 48px;
+    max-height: 48px;
+}
+
+#report {
+    margin: 0 auto;
+    text-align: center;
+    color: #181D27;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+#textP {
+    margin: 0 auto;
+    color: #535862;
+    text-align: center;
+    font-size: 16px;
+    margin-top: 8px;
+    max-width: 390px;
+    width: 100%;
+}
+
+#lastDiv {
+    margin: 0 auto;
+    width: 736px;
+    text-align: center;
+    background-color: #53389E;
+    border-top-left-radius: 24px;
+    border-bottom-left-radius: 24px;
+    padding-top: 41px;
+    padding-bottom: 41px;
+    display: inline-block;
+    vertical-align: middle;
+    
+}
+
+#shotP {
+    margin: 0 auto;
+    text-align: left;
+    margin-left: 64px;
+    margin-top: 64px;
+    color: #FFF;
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+#lastP {
+    margin: 0 auto;
+    text-align: left;
+    margin-left: 64px;
+    color: #E9D7FE;
+    font-size: 20px;
+    margin-bottom: 48px;
+}
+
+#asd {
+    text-align: left;
+}
+
+#learnDiv {
+    border-radius: 8px;
+    border: 1px solid #D5D7DA;
+    background: #FFF;
+    padding: 12px 18px;
+    margin-bottom: 64px;
+    margin-left: 64px;
+    text-align: left;
+    display: inline-block;
+}
+
+#learnP {
+    color: #414651;
+    font-size: 16px;
+    text-align: center;
+}
+
+#startedDiv {
+    padding: 12px 18px;
+    border-radius: 8px;
+    border: 2px solid #FFF;
+    background: #7F56D9;
+    display: inline-block;
+    margin-left: 12px;
+}
+
+#startedP {
+    color: #FFF;
+    font-size: 16px;
+    text-align: center;
+}
+
+#Foto {
+    margin: 0 auto;
+    margin-left: auto;
+    display: inline-block;
+    vertical-align: middle;
+    width: 480px;
+    height: 388px;
+    border-top-right-radius: 24px;
+    border-bottom-right-radius: 24px;
+    
+}
+
+#forMiddle {
+    margin: 0 auto;
+    text-align: center;
+}
